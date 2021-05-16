@@ -15,7 +15,7 @@ That&amp;rsquo;s where Hugo came to the rescue. Being a static site generator, I
 <p>As mentioned before, I am using Hugo Environments to use different configuration sets (merged with the <code>_default</code> configuration) to add different settings for each domain&rsquo;s build.</p>
 <h3 id="hosting--cicdcd-github--github-actions">Hosting &amp; CI/CD/CD: GitHub &amp; GitHub Actions</h3>
 <p>When I push any changes to GitHub, the entire site is rebuilt using GitHub Actions. The sites are then hosted in two repositories that use GitHub Pages to serve.</p>
-<p>Primarily, this is all on the back of <a href="https://github.com/peaceiris/actions-hugo">@peaceiris&rsquo; actions-hugo</a> and <a href="https://github.com/peaceiris/actions-gh-pages">actions-gh-pages</a>, which are well documented and easy to use.</p>
+<p>Primarily, this is all on the back of <a href="https://github.com/peaceiris/actions-hugo">@peaceiris' actions-hugo</a> and <a href="https://github.com/peaceiris/actions-gh-pages">actions-gh-pages</a>, which are well documented and easy to use.</p>
 <h3 id="conclusion">Conclusion</h3>
 <p>It&rsquo;s been fun building out everything for the sites, and I&rsquo;m incredibly pleased with the results. There will surely be more to come, as I have a few plans for the site and theme.</p>
 <p>Thanks for checking it out!</p>
